@@ -1,0 +1,38 @@
+# My Networking & Cybersecurity Roadmap 🚀
+
+## Stage 1 — Beginner (Current Stage)
+- 🔲 Basic network setup (Router, Switch, PCs)
+- 🔲 IP addressing
+- 🔲 VLANs
+- 🔲 ACL Firewall rules
+- 🔲 Basic ping testing
+- 🔲 Subnetting
+- 🔲 DHCP
+- 🔲 DNS basics
+
+## Stage 2 — Intermediate
+- 🔲 Static and Dynamic Routing (OSPF, RIP)
+- 🔲 Inter-VLAN routing
+- 🔲 NAT
+- 🔲 VPN setup
+- 🔲 Port Security
+- 🔲 Wireless network setup
+
+## Stage 3 — Advanced Networking
+- 🔲 BGP routing
+- 🔲 Advanced firewall configuration
+- 🔲 Load balancing
+- 🔲 IPv6 configuration
+
+## Stage 4 — Network Security
+- 🔲 IDS/IPS with Snort
+- 🔲 Firewall with pfSense
+- 🔲 Wireshark traffic analysis
+- 🔲 Penetration testing on networks
+- 🔲 SIEM tools (Splunk, ELK Stack)
+
+## Stage 5 — Enterprise Network (Big Goal)
+- 🔲 Design full company network
+- 🔲 Cloud networking (AWS, Azure)
+- 🔲 Network automation with Python
+- 🔲 Full security implementation
